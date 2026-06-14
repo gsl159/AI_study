@@ -1,0 +1,4 @@
+ai/
+.env.example
+__pycache__/
+.vscode/
