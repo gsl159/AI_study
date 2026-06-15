@@ -1,7 +1,7 @@
 # state_machine_agent.py
 import json
 import logging
-from typing import Dict, Any
+from typing import Dict, Any, List, Optional
 from openai import OpenAI
 from agent_models import AgentState, Hypothesis, ExecutionPlan
 
