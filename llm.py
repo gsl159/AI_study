@@ -10,7 +10,7 @@ from reducer import aggregate_and_deduplicate
 logging.basicConfig(level=logging.INFO, format="%(asctime)s [%(levelname)s] %(message)s", datefmt="%H:%M:%S")
 logger = logging.getLogger("AI-Systems-Monitor")
 
-DEEPSEEK_API_KEY  = "sk-cea2398a89e3499f8eb6cdca14bbf3ec"
+DEEPSEEK_API_KEY  = "sk-e3a8e7de8c6144c0a71367556456f63e"
 DEEPSEEK_BASE_URL = "https://api.deepseek.com/v1"
 DEEPSEEK_MODEL    = "deepseek-chat"
 
